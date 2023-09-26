@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400&family=Fauna+One&display=swap");
+
+body {
+  font-family: 'Palatino', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-image: url('https://images.unsplash.com/photo-1538592116845-119a3974c958?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80');
+  color: rgb(6, 3, 3);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+
+* { 
+  
+  font-size: medium;
+  /* background-image: url('https://images.unsplash.com/photo-1538592116845-119a3974c958?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80'); */
+}
+
+
+
+
